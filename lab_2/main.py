@@ -76,4 +76,4 @@ print("Final weights and biases:")
 print("Weights between input and hidden layer:\n", w1)
 print("Biases for hidden layer:\n", b1)
 print("Weights between hidden and output layer:\n", w2)
-print("Biases for output layer:\n", b2)`
+print("Biases for output layer:\n", b2)
