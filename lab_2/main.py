@@ -68,5 +68,3 @@ plt.title("XOR Decision Boundary")
 plt.xlabel("Input 1")
 plt.ylabel("Input 2")
 plt.show()
-
-# AHHHHHHHHHHHHHHHHHHHHHHHHHH
