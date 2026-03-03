@@ -68,12 +68,3 @@ plt.title("XOR Decision Boundary")
 plt.xlabel("Input 1")
 plt.ylabel("Input 2")
 plt.show()
-
-print("Final output after training:")
-print(output)
-
-print("Final weights and biases:")
-print("Weights between input and hidden layer:\n", w1)
-print("Biases for hidden layer:\n", b1)
-print("Weights between hidden and output layer:\n", w2)
-print("Biases for output layer:\n", b2)
